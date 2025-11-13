@@ -1,4 +1,4 @@
-**#Simple Ship Routing Simulation**
+#**Simple Ship Routing Simulation**
 
 (A mini toy project (also fun project) I made inspired from VISIR-2 ship weather routing model in python)
 A dynamic, map-based simulation tool for optimizing ship routes across ocean grids, factoring in weather conditions, ship parameters, and land avoidance. Built with Python, Streamlit, Cartopy, and NetworkX, this project visualizes both static and animated paths for different vessel types under customizable weather scenarios.
